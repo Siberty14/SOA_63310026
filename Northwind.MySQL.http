@@ -1,0 +1,6 @@
+@Northwind.MySQL_HostAddress = http://localhost:5037
+
+GET {{Northwind.MySQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
